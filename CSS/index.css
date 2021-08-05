@@ -170,7 +170,7 @@ header{
 }
 @media (max-width: 330px){
     .main-sec-container{
-        min-height: 60em !important;
+        min-height: 65em !important;
     }
 }
 
