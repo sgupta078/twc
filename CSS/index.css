@@ -154,6 +154,9 @@ header{
 }
 
 @media (max-width: 420px){
+    .main-sec-container{
+        min-height: 62em !important;
+    }
     .text1{
         font-size: 280%;
     }
